@@ -1,0 +1,17 @@
+main {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-image: url('../img/background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slider-container {
+    height: 50vh;
+    width: 50vw;
+    background-color: rgba(56, 46, 46, 0.925);
+    box-shadow: 0 10px 30px rgb(110, 93, 93);
+    border-radius: 10px;
+}
